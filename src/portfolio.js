@@ -9,25 +9,25 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Mayank Khanna",
-  title: "Hi all, I'm Mayank",
+  username: "Abhishek Jat",
+  title: "Hi all, I'm abhishek",
   subTitle:
     "A passionate software developer, problem solver, and technology enthusiast who loves learning new things. A quick learner with zeal and motivation to succeed, I have experience working as a Full Stack Developer, Voice App Developer, and DevOps Engineer (SRE). I look forward to opportunities that will help me grow and where I can contribute to the growth of the organization with my technical and management skills.",
   resumeLink:
-    "https://drive.google.com/file/d/1SY4jkAAlKny1kTRT-5BiH1sbFcoI36zO/view?usp=sharing", // Set to empty to hide the button
+    "https://guns.lol/abhishekjat", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/khanna98",
-  linkedin: "https://www.linkedin.com/in/khanna98/",
-  gmail: "mkhanna98.dev@gmail.com",
-  gitlab: "https://gitlab.com/mayank.khanna.98",
-  // facebook: "https://www.facebook.com/saad.pasta7",
+  github: "https://github.com/abhishekjaat1",
+  linkedin: "https://www.linkedin.com/in/psycho/",
+  gmail: "abhishekbhaijat2004.dev@gmail.com",
+  gitlab: "none",
+  // facebook: "none",
   medium: "https://medium.com/@iammayank",
-  instagram: "https://instagram.com/_mayankkhanna",
+  instagram: "https://instagram.com/abhishek__jat__",
   stackoverflow: "https://stackoverflow.com/users/10852834/mayank-khanna",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
